@@ -1,0 +1,6 @@
+# Temporary & build files
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vercel
