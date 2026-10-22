@@ -3459,3 +3459,10 @@ h1.hero-bg-title {
   border-bottom: none;
 }
 
+
+.proj-agency-pill--featured {
+  background: rgba(249, 71, 6, 0.08);
+  color: var(--color-primary-orange);
+  border: 1px solid rgba(249, 71, 6, 0.25);
+  font-weight: 600;
+}

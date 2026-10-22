@@ -707,7 +707,7 @@
                 <!-- Projects Grid -->
                 <div class="projects-grid">
                 <!-- Bharat Setu Export (Personal - Featured) -->
-                    <div class="proj-card proj-card--personal" data-category="personal featured">
+                    <div class="proj-card proj-card--personal" data-category="personal">
                         <div class="proj-card-top">
                             <span class="proj-eyebrow">Agricultural Export</span>
                             <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ✦</span>
@@ -721,12 +721,11 @@
                         </div>
                         <div class="proj-card-footer">
                             <a href="https://bharatsetuexport.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--personal">Live Preview &rarr;</a>
-                            <span class="proj-featured-badge">⭐ Featured</span>
                         </div>
                     </div>
 
                     <!-- Shri Pandurang Exim Export (Personal - Featured) -->
-                    <div class="proj-card proj-card--personal" data-category="personal featured">
+                    <div class="proj-card proj-card--personal" data-category="personal">
                         <div class="proj-card-top">
                             <span class="proj-eyebrow">Agro Export Platform</span>
                             <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ✦</span>
@@ -740,15 +739,14 @@
                         </div>
                         <div class="proj-card-footer">
                             <a href="https://shripandurangeximexport.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--personal">Live Preview &rarr;</a>
-                            <span class="proj-featured-badge">⭐ Featured</span>
                         </div>
                     </div>
 
                     <!-- Custom Hiring Plugin (Personal - Featured) -->
-                    <div class="proj-card proj-card--plugin" data-category="personal featured">
+                    <div class="proj-card proj-card--plugin" data-category="featured">
                         <div class="proj-card-top">
                             <span class="proj-eyebrow">WordPress Plugin</span>
-                            <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ✦</span>
+                            <span class="proj-agency-pill proj-agency-pill--featured">Featured ✦</span>
                         </div>
                         <h3 class="proj-name">Custom Hiring Plugin</h3>
                         <p class="proj-desc">Built a fully custom WordPress hiring plugin from scratch. Features include backend job management, frontend application form, and an automated email system that sends status updates (Received / Selected / Rejected) triggered directly from the admin dashboard.</p>
