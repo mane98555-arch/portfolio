@@ -692,50 +692,68 @@
                         </div>
                         <h2 class="timeline-headline">Featured <span class="highlight-text">Projects</span> &amp; Builds</h2>
                         <p class="timeline-desc">
-                            Real-world websites, custom themes, and tools built during professional agency roles. Credits and live links included for each project.
+                            Real-world websites, custom WordPress themes, and plugins built as personal projects. Every project is fully designed, developed, and owned by me.
                         </p>
                     </div>
 
                     <!-- Filter Tabs -->
                     <div class="timeline-filter-tabs proj-filter-tabs">
-                        <button class="proj-filter-btn active" data-filter="all">All (11)</button>
-                        <button class="proj-filter-btn" data-filter="featured">⭐ Featured</button>
-                        <button class="proj-filter-btn" data-filter="triple-s">Triple S Production</button>
-                        <button class="proj-filter-btn" data-filter="latent">Latent Software</button>
+                        <button class="proj-filter-btn active" data-filter="all">All (3)</button>
+                        <button class="proj-filter-btn" data-filter="featured">? Featured</button>
+                        <button class="proj-filter-btn" data-filter="personal">Personal Projects</button>
                     </div>
                 </div>
 
                 <!-- Projects Grid -->
                 <div class="projects-grid">
-
-                    <!-- BuySaleIndia (Featured + Triple S) -->
-                    <div class="proj-card" data-category="triple-s featured">
+                <!-- Bharat Setu Export (Personal - Featured) -->
+                    <div class="proj-card proj-card--personal" data-category="personal featured">
                         <div class="proj-card-top">
-                            <span class="proj-eyebrow">Classified Platform</span>
-                            <a href="https://triplesproduction.com/" target="_blank" rel="noopener" class="proj-agency-pill">Triple S Production ↗</a>
+                            <span class="proj-eyebrow">Agricultural Export</span>
+                            <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ?</span>
                         </div>
-                        <h3 class="proj-name">BuySale India</h3>
-                        <p class="proj-desc">JustDial-style classified listing platform built entirely from scratch. Custom WordPress theme with heavy advanced functionality, user listings, and category-based browsing.</p>
+                        <h3 class="proj-name">Bharat Setu Export</h3>
+                        <p class="proj-desc">Full WordPress website for a leading Indian agricultural exporter. Custom theme development with product showcase, global trade inquiry flow, SEO optimization, and fast-loading design built from scratch.</p>
                         <div class="proj-tags">
-                            <span>Custom WP Theme</span>
-                            <span>PHP Development</span>
-                            <span>Classified Platform</span>
-                            <span>Advanced Functionality</span>
+                            <span>WordPress</span>
+                            <span>Custom Theme</span>
+                            <span>SEO Optimized</span>
+                            <span>Export Business</span>
                         </div>
                         <div class="proj-card-footer">
-                            <a href="https://buysaleindia.com/" target="_blank" rel="noopener" class="proj-live-link">Live Preview ↗</a>
-                            <span class="proj-featured-badge">⭐ Featured</span>
+                            <a href="https://bharatsetuexport.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--personal">Live Preview ?</a>
+                            <span class="proj-featured-badge">? Featured</span>
                         </div>
                     </div>
 
-                    <!-- Custom Hiring Plugin (Featured + Triple S) -->
-                    <div class="proj-card proj-card--plugin" data-category="triple-s featured">
+                    <!-- Shri Pandurang Exim Export (Personal - Featured) -->
+                    <div class="proj-card proj-card--personal" data-category="personal featured">
+                        <div class="proj-card-top">
+                            <span class="proj-eyebrow">Agro Export Platform</span>
+                            <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ?</span>
+                        </div>
+                        <h3 class="proj-name">Shri Pandurang Exim Export</h3>
+                        <p class="proj-desc">WordPress website for a premium Indian agro products exporter dealing in spices and commodities. Product catalog, global trade contact flow, and SEO-driven structure designed for international audience reach.</p>
+                        <div class="proj-tags">
+                            <span>WordPress</span>
+                            <span>Custom Theme</span>
+                            <span>Agro Products</span>
+                            <span>Global Trade</span>
+                        </div>
+                        <div class="proj-card-footer">
+                            <a href="https://shripandurangeximexport.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--personal">Live Preview ?</a>
+                            <span class="proj-featured-badge">? Featured</span>
+                        </div>
+                    </div>
+
+                    <!-- Custom Hiring Plugin (Personal - Featured) -->
+                    <div class="proj-card proj-card--plugin" data-category="personal featured">
                         <div class="proj-card-top">
                             <span class="proj-eyebrow">WordPress Plugin</span>
-                            <a href="https://triplesproduction.com/" target="_blank" rel="noopener" class="proj-agency-pill">Triple S Production ↗</a>
+                            <span class="proj-agency-pill proj-agency-pill--personal">Personal Project ?</span>
                         </div>
                         <h3 class="proj-name">Custom Hiring Plugin</h3>
-                        <p class="proj-desc">Built a custom WordPress hiring plugin for Triple S Production's career page. Backend job management, application form submission, and automatic status emails (Received / Selected / Rejected) triggered by admin actions.</p>
+                        <p class="proj-desc">Built a fully custom WordPress hiring plugin from scratch. Features include backend job management, frontend application form, and an automated email system that sends status updates (Received / Selected / Rejected) triggered directly from the admin dashboard.</p>
                         <div class="proj-tags">
                             <span>WordPress Plugin</span>
                             <span>PHP Backend</span>
@@ -743,182 +761,14 @@
                             <span>Admin Dashboard</span>
                         </div>
                         <div class="proj-card-footer">
-                            <span class="proj-internal-tag">⚙️ Internal Tool</span>
-                            <span class="proj-featured-badge">⭐ Featured</span>
+                            <span class="proj-internal-tag">?? Internal Tool</span>
+                            <span class="proj-featured-badge">? Featured</span>
                         </div>
                     </div>
-
-                    <!-- SkinFix -->
-                    <div class="proj-card" data-category="triple-s">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Healthcare Website</span>
-                            <a href="https://triplesproduction.com/" target="_blank" rel="noopener" class="proj-agency-pill">Triple S Production ↗</a>
-                        </div>
-                        <h3 class="proj-name">SkinFix</h3>
-                        <p class="proj-desc">Healthcare and skincare website built using custom PHP template files. Modular, maintainable design architecture with clean code structure and fast load times.</p>
-                        <div class="proj-tags">
-                            <span>PHP Templates</span>
-                            <span>Custom Theme</span>
-                            <span>WordPress</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://skinfix.in/" target="_blank" rel="noopener" class="proj-live-link">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- ManMilan -->
-                    <div class="proj-card" data-category="triple-s">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Matrimonial Platform</span>
-                            <a href="https://triplesproduction.com/" target="_blank" rel="noopener" class="proj-agency-pill">Triple S Production ↗</a>
-                        </div>
-                        <h3 class="proj-name">ManMilan</h3>
-                        <p class="proj-desc">Matrimonial website developed as a full-stack developer. Focused on performance, clean UI, and smooth profile-browsing experience for users.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Custom Development</span>
-                            <span>Full-Stack</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://manmilan.in/" target="_blank" rel="noopener" class="proj-live-link">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- JeevanPriti -->
-                    <div class="proj-card" data-category="triple-s">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Matrimonial Platform</span>
-                            <a href="https://triplesproduction.com/" target="_blank" rel="noopener" class="proj-agency-pill">Triple S Production ↗</a>
-                        </div>
-                        <h3 class="proj-name">JeevanPriti</h3>
-                        <p class="proj-desc">Matrimonial website with a trust-building design built for user-friendly navigation and fast page loading. Clean, readable layout with smooth UX.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Custom Development</span>
-                            <span>UI/UX Design</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://jeevanpriti.com/" target="_blank" rel="noopener" class="proj-live-link">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- Indian Academy (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Education Website</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">Indian Academy</h3>
-                        <p class="proj-desc">Educational institution website built with a professional and credibility-focused design. Smooth enrollment flow and structured course information layout.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Education Platform</span>
-                            <span>Custom Theme</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://indianacademy.edu.in/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- Adevo (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Business / Agency</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">Adevo</h3>
-                        <p class="proj-desc">Business and agency website developed with modern design principles. Conversion-focused page layout with strong service presentation and lead-gen structure.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Business Website</span>
-                            <span>Landing Page</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://adevo.in/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- VBTek (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Tech Company</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">VBTek</h3>
-                        <p class="proj-desc">Tech company website with bold, professional layout built to establish brand authority. Strong service positioning and qualified lead generation structure.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Tech Company</span>
-                            <span>Lead Generation</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://vbtek.in/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- Hyperlychee Labs (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Startup / Innovation</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">Hyperlychee Labs</h3>
-                        <p class="proj-desc">Innovation lab website with creative design approach to convey a strong brand identity and cutting-edge work culture. Startup aesthetic with enterprise-grade layout.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Startup</span>
-                            <span>Brand Identity</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://hyperlycheelabs.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- HTG Bharat (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Corporate Website</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">HTG Bharat</h3>
-                        <p class="proj-desc">Corporate website developed with a focus on professional presentation, structured content hierarchy, and strong conversion pathways for business goals.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Corporate</span>
-                            <span>Custom Design</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://htgbharat.com/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
-                    <!-- Project 8P (Latent) -->
-                    <div class="proj-card proj-card--latent" data-category="latent">
-                        <div class="proj-card-top">
-                            <span class="proj-eyebrow">Non-Profit / Org</span>
-                            <a href="https://www.latenthq.com/" target="_blank" rel="noopener" class="proj-agency-pill proj-agency-pill--latent">Latent Software ↗</a>
-                        </div>
-                        <h3 class="proj-name">Project 8P</h3>
-                        <p class="proj-desc">Mission-driven organization website built with an impactful, content-first design to communicate vision, values, and drive strong audience engagement.</p>
-                        <div class="proj-tags">
-                            <span>WordPress</span>
-                            <span>Non-Profit</span>
-                            <span>Content-Focused</span>
-                        </div>
-                        <div class="proj-card-footer">
-                            <a href="https://project8p.org/" target="_blank" rel="noopener" class="proj-live-link proj-live-link--latent">Live Preview ↗</a>
-                        </div>
-                    </div>
-
                 </div><!-- /projects-grid -->
 
                 <!-- Bottom Disclaimer -->
-                <p class="proj-bottom-note">
-                    All projects were built during professional agency roles at
-                    <a href="https://triplesproduction.com/" target="_blank" rel="noopener">Triple S Production</a> &amp;
-                    <a href="https://www.latenthq.com/" target="_blank" rel="noopener">Latent Software</a>.
-                    Client ownership and branding belong to respective agencies and their clients.
-                </p>
+                <p class="proj-bottom-note">All projects listed here are <strong>personal projects</strong> � fully designed, developed, and owned by Suraj Mane.</p>
 
             </div>
         </section>

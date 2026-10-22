@@ -3441,3 +3441,23 @@ h1.hero-bg-title {
     padding: 18px 14px;
   }
 }
+
+/* ============================================================
+   PERSONAL PROJECT CARD STYLES
+   ============================================================ */
+.proj-card--personal .proj-agency-pill--personal {
+  background: linear-gradient(135deg, #f94706 0%, #ff6b35 100%);
+  color: #fff;
+  border: none;
+  font-weight: 600;
+}
+.proj-live-link--personal {
+  color: #f94706;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1.5px solid #f94706;
+  transition: opacity 0.2s;
+}
+.proj-live-link--personal:hover {
+  opacity: 0.75;
+}
