@@ -3452,12 +3452,13 @@ h1.hero-bg-title {
   font-weight: 600;
 }
 .proj-live-link--personal {
-  color: #f94706;
-  font-weight: 600;
-  text-decoration: none;
-  border-bottom: 1.5px solid #f94706;
-  transition: opacity 0.2s;
+  background: var(--color-primary-orange) !important;
+  color: #ffffff !important;
+  font-weight: 700;
+  border-bottom: none;
 }
 .proj-live-link--personal:hover {
-  opacity: 0.75;
+  background: #d93a00 !important;
+  color: #ffffff !important;
+  opacity: 1;
 }
