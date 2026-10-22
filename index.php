@@ -90,18 +90,9 @@
             <h1 class="hero-bg-title">DEVELOPER</h1>
             <div class="hero-3d">
                 <div class="left-3d">
-                    <picture>
-                        <source srcset="assets/images/Glossy WordPress Logo.webp" type="image/webp">
-                        <img src="assets/images/Glossy WordPress Logo.png" alt="WordPress Logo 3D" style="width:140px;" width="140" height="140" loading="lazy">
-                    </picture>
-                    <picture>
-                        <source srcset="assets/images/Glossy 3D SEO Browser Icon.webp" type="image/webp">
-                        <img src="assets/images/Glossy 3D SEO Browser Icon.png" alt="SEO Browser Icon 3D" style="width:140px;margin-left:-70px;" width="140" height="140" loading="lazy">
-                    </picture>
-                    <picture>
-                        <source srcset="assets/images/Glossy Responsive Web Design Devices.webp" type="image/webp">
-                        <img src="assets/images/Glossy Responsive Web Design Devices.png" alt="Responsive Web Design 3D" style="width:140px;" width="140" height="140" loading="lazy">
-                    </picture>
+                    <img src="assets/images/Glossy WordPress Logo (1).png" alt="Orange triangle 3D shape" style="width:140px;">
+                    <img src="assets/images/Glossy 3D SEO Browser Icon (1).png" alt="Purple sphere 3D shape" style="width:140px;margin-left:-70px;">
+                    <img src="assets/images/Glossy Responsive Web Design Devices (1).png" alt="Blue cylinder 3D shape" style="width:140px;">
                 </div>
                 <div class="middle-3d">
                     <h3 class="title">Hi, I'm Suraj!</h3>
@@ -118,10 +109,7 @@
                     <div class="flip-card" tabIndex="0">
                       <div class="flip-card-inner">
                         <div class="flip-card-front">
-                          <picture>
-                           <source srcset="assets/images/Poster.webp" type="image/webp">
-                           <img src="assets/images/Poster.png" alt="Suraj Mane - Profile Picture" class="flip-card-profile-img" fetchpriority="high" width="300" height="300">
-                         </picture>
+                          <img src="assets/images/Poster.webp" alt="Suraj Mane - Profile Picture" class="flip-card-profile-img">
                         </div>
                         <div class="flip-card-back">
                           <div class="flip-back-badge">
@@ -163,22 +151,14 @@
 
                 </div>
                 <div class="right-3d">
-                    <picture>
-                        <source srcset="assets/images/Glossy Orange Coding Badge.webp" type="image/webp">
-                        <img src="assets/images/Glossy Orange Coding Badge.png" alt="Orange Coding Badge 3D" style="width:140px;" width="140" height="140" loading="lazy">
-                    </picture>
-                    <picture>
-                        <source srcset="assets/images/Glossy 3D Dashboard with 95 Badge.webp" type="image/webp">
-                        <img src="assets/images/Glossy 3D Dashboard with 95 Badge.png" alt="Dashboard 95 Badge 3D" style="width:140px;margin-left:70px;" width="140" height="140" loading="lazy">
-                    </picture>
-                    <picture>
-                        <source srcset="assets/images/Glossy 3D Browser Search Icon.webp" type="image/webp">
-                        <img src="assets/images/Glossy 3D Browser Search Icon.png" alt="Browser Search Icon 3D" style="width:140px;" width="140" height="140" loading="lazy">
-                    </picture>
+                    <img src="assets/images/Glossy Orange Coding Badge (1).png" alt="Orange triangle 3D shape" style="width:140px;">
+                    <img src="assets/images/Glossy 3D Dashboard with 95+ Badge (1).png" alt="Lime green 3D shape" style="width:140px;margin-left:70px;">
+                    <img src="assets/images/Glossy 3D Browser Search Icon (1).png" alt="Blue cylinder 3D shape" style="width:140px;">
                 </div>
             </div>
 
         </section>
+
         
         <!-- ABOUT SECTION -->
         <section id="about" class="about-section">
@@ -206,7 +186,7 @@
                     
                     <!-- Left: Portrait Photo Card -->
                     <div class="about-portrait-card">
-                        <img src="assets/images/profile image.png" alt="Suraj Mane - Web Developer" class="about-portrait-img">
+                        <img src="assets/images/profile image.webp" alt="Suraj Mane - Web Developer" class="about-portrait-img">
                         <div class="portrait-overlay"></div>
                     </div>
 
