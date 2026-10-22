@@ -3457,8 +3457,4 @@ h1.hero-bg-title {
   font-weight: 700;
   border-bottom: none;
 }
-.proj-live-link--personal:hover {
-  background: #d93a00 !important;
-  color: #ffffff !important;
-  opacity: 1;
-}
+
