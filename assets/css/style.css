@@ -418,7 +418,9 @@ img {
   background: var(--color-primary-orange);
   transform: translateY(-1px);
 }
-
+.title{
+    font-size:24px;
+}
 
 
 .hero-section {
@@ -607,6 +609,12 @@ h1.hero-bg-title {
   font-weight: 300;
   color: #111111;
   line-height: 1;
+}
+.left-3d {
+    padding-right: 40px;
+}
+.right-3d{
+    padding-left: 40px;
 }
 .btn-90,
 .btn-90 *,

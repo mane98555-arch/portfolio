@@ -77,12 +77,12 @@
             <h1 class="hero-bg-title">DEVELOPER</h1>
             <div class="hero-3d">
                 <div class="left-3d">
-                    <img src="assets/images/hero orange triangle.avif" alt="Orange triangle 3D shape" style="width:180px;">
-                    <img src="assets/images/Hero Purple Sphere.avif" alt="Purple sphere 3D shape" style="width:180px;margin-left:-70px;">
-                    <img src="assets/images/Hero Blue Cylinder.avif" alt="Blue cylinder 3D shape" style="width:180px;rotate:-55deg;">
+                    <img src="assets/images/Glossy WordPress Logo.png" alt="Orange triangle 3D shape" style="width:140px;">
+                    <img src="assets/images/Glossy 3D SEO Browser Icon.png" alt="Purple sphere 3D shape" style="width:140px;margin-left:-70px;">
+                    <img src="assets/images/Glossy Responsive Web Design Devices.png" alt="Blue cylinder 3D shape" style="width:140px;">
                 </div>
                 <div class="middle-3d">
-                    <h3>Hi, I'm Suraj!</h3>
+                    <h3 class="title">Hi, I'm Suraj!</h3>
                     <div class="role-rotator" style="height: 32px; overflow: hidden;" aria-label="Specialization">
                         <div class="role-rotator-track">
                             <span class="role-text">Fast-Loading Websites</span>
@@ -138,9 +138,9 @@
 
                 </div>
                 <div class="right-3d">
-                    <img src="assets/images/Hero Turquoise Star.avif" alt="Orange triangle 3D shape" style="width:180px;">
-                    <img src="assets/images/Hero Lime Green Object.avif" alt="Lime green 3D shape" style="width:180px;margin-left:70px;">
-                    <img src="assets/images/Yellow Cube.avif" alt="Blue cylinder 3D shape" style="width:180px;rotate:-55deg;">
+                    <img src="assets/images/Glossy Orange Coding Badge.png" alt="Orange triangle 3D shape" style="width:140px;">
+                    <img src="assets/images/Glossy 3D Dashboard with 95+ Badge.png" alt="Lime green 3D shape" style="width:140px;margin-left:70px;">
+                    <img src="assets/images/Glossy 3D Browser Search Icon.png" alt="Blue cylinder 3D shape" style="width:140px;">
                 </div>
             </div>
 
