@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Suraj Mane | Freelance Web &amp; WordPress Developer</title>
+            <title>Suraj Mane | Web Developer &amp; WordPress Specialist</title>
     
     <!-- Primary Meta Tags -->
-    <meta name="title" content="Suraj Mane | Freelance Web & WordPress Developer" />
-    <meta name="description" content="Looking for a high-performance business website? Suraj Mane crafts fast, SEO-optimized WordPress websites, custom themes, and e-commerce solutions that drive real leads." />
-    <meta name="keywords" content="Suraj Mane, Web Developer, WordPress Developer, Freelance Web Developer, Custom WordPress Themes, Fast Loading Websites, E-commerce Website, India" />
+    <meta name="title" content="Suraj Mane | Web Developer & WordPress Specialist" />
+    <meta name="description" content="Explore the portfolio of Suraj Mane, a Web Developer specializing in high-performance websites, custom WordPress themes, plugins, and modern web solutions." />
+    <meta name="keywords" content="Suraj Mane, Web Developer, WordPress Developer, WordPress Specialist, Custom WordPress Themes, Fast Loading Websites, E-commerce Website, India" />
     <meta name="author" content="Suraj Mane" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://surajmane.vercel.app/" />
@@ -16,8 +16,8 @@
     <!-- Open Graph / Facebook / WhatsApp / LinkedIn -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://surajmane.vercel.app/" />
-    <meta property="og:title" content="Suraj Mane | Freelance Web & WordPress Developer" />
-    <meta property="og:description" content="Crafting high-performance digital experiences that rank higher, load faster, and convert better. View portfolio and live projects." />
+    <meta property="og:title" content="Suraj Mane | Web Developer & WordPress Specialist" />
+    <meta property="og:description" content="Explore the portfolio of Suraj Mane, a Web Developer specializing in high-performance websites, custom WordPress themes, plugins, and modern web solutions." />
     <meta property="og:image" content="https://surajmane.vercel.app/assets/images/og-image.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -26,8 +26,8 @@
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content="https://surajmane.vercel.app/" />
-    <meta name="twitter:title" content="Suraj Mane | Freelance Web & WordPress Developer" />
-    <meta name="twitter:description" content="Crafting high-performance digital experiences that rank higher, load faster, and convert better. View portfolio and live projects." />
+    <meta name="twitter:title" content="Suraj Mane | Web Developer & WordPress Specialist" />
+    <meta name="twitter:description" content="Explore the portfolio of Suraj Mane, a Web Developer specializing in high-performance websites, custom WordPress themes, plugins, and modern web solutions." />
     <meta name="twitter:image" content="https://surajmane.vercel.app/assets/images/og-image.jpg" />
     
     <!-- Google Search Console Verification -->
