@@ -139,7 +139,7 @@
                 </div>
                 <div class="right-3d">
                     <img src="assets/images/Glossy Orange Coding Badge.png" alt="Orange triangle 3D shape" style="width:140px;">
-                    <img src="assets/images/Glossy 3D Dashboard with 95+ Badge.png" alt="Lime green 3D shape" style="width:140px;margin-left:70px;">
+                    <img src="assets/images/Glossy 3D Dashboard with 95 Badge.png" alt="Lime green 3D shape" style="width:140px;margin-left:70px;">
                     <img src="assets/images/Glossy 3D Browser Search Icon.png" alt="Blue cylinder 3D shape" style="width:140px;">
                 </div>
             </div>
