@@ -3059,6 +3059,7 @@ h1.hero-bg-title {
     border-bottom: none;
     margin-bottom: 0;
     padding-bottom: 0;
+    min-height: 0;
   }
 
   .expertise-desc {
