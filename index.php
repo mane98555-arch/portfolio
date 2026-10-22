@@ -35,6 +35,61 @@
     <meta name="twitter:title" content="Suraj Mane | Web Developer & WordPress Specialist" />
     <meta name="twitter:description" content="Explore the portfolio of Suraj Mane, a Web Developer specializing in high-performance websites, custom WordPress themes, plugins, and modern web solutions." />
     <meta name="twitter:image" content="https://surajmane.vercel.app/assets/images/og-image.jpg" />
+
+    <meta name="theme-color" content="#000000" />
+
+    <!-- Schema.org Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://surajmane.vercel.app/#person",
+          "name": "Suraj Mane",
+          "jobTitle": "Web Developer & WordPress Specialist",
+          "url": "https://surajmane.vercel.app/",
+          "image": "https://surajmane.vercel.app/assets/images/og-image.jpg",
+          "sameAs": [
+            "https://www.linkedin.com/in/suraj-mane-8a5b26399/"
+          ],
+          "knowsAbout": [
+            "WordPress Development",
+            "Custom Themes & Plugins",
+            "PHP Development",
+            "Web Performance & Speed Optimization",
+            "SEO-Optimized Web Design",
+            "Frontend Development (HTML, CSS, JavaScript)",
+            "E-commerce Websites"
+          ],
+          "description": "Suraj Mane is a Web Developer & WordPress Specialist crafting high-performance, fast-loading, and SEO-optimized web solutions."
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://surajmane.vercel.app/#website",
+          "url": "https://surajmane.vercel.app/",
+          "name": "Suraj Mane | Web Developer & WordPress Specialist",
+          "description": "Explore the portfolio of Suraj Mane, a Web Developer specializing in high-performance websites, custom WordPress themes, plugins, and modern web solutions.",
+          "publisher": {
+            "@id": "https://surajmane.vercel.app/#person"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://surajmane.vercel.app/#webpage",
+          "url": "https://surajmane.vercel.app/",
+          "name": "Suraj Mane Portfolio",
+          "isPartOf": {
+            "@id": "https://surajmane.vercel.app/#website"
+          },
+          "mainEntity": {
+            "@id": "https://surajmane.vercel.app/#person"
+          }
+        }
+      ]
+    }
+    </script>
     
     <!-- Google Search Console Verification -->
     <meta name="google-site-verification" content="ARxkTXOv4WlFofTiRw_Aa-gwrrOEw2vmYn0sJAxXMfM" />
