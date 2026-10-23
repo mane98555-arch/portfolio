@@ -71,11 +71,19 @@ function initScrollSpy() {
         }
     }
 
-    // Attach scroll listener with smooth passive performance
-    window.addEventListener('scroll', onScroll, { passive: true });
-    
-    // Trigger once on page load to set initial state
-    onScroll();
+    // Optimized scroll listener with requestAnimationFrame to prevent forced reflow
+    let scrollTicking = false;
+    function requestScrollTick() {
+        if (!scrollTicking) {
+            requestAnimationFrame(() => {
+                onScroll();
+                scrollTicking = false;
+            });
+            scrollTicking = true;
+        }
+    }
+    window.addEventListener('scroll', requestScrollTick, { passive: true });
+    window.addEventListener('load', requestScrollTick, { once: true });
 
     // Smooth scroll for nav link clicks
     navLinks.forEach(link => {
@@ -163,9 +171,20 @@ function initExpertiseScroll() {
         }
     }
 
-    window.addEventListener('scroll', checkActiveItem, { passive: true });
-    window.addEventListener('resize', checkActiveItem, { passive: true });
-    checkActiveItem();
+    // Optimized active item check with requestAnimationFrame
+    let expertiseTicking = false;
+    function requestExpertiseTick() {
+        if (!expertiseTicking) {
+            requestAnimationFrame(() => {
+                checkActiveItem();
+                expertiseTicking = false;
+            });
+            expertiseTicking = true;
+        }
+    }
+    window.addEventListener('scroll', requestExpertiseTick, { passive: true });
+    window.addEventListener('resize', requestExpertiseTick, { passive: true });
+    window.addEventListener('load', requestExpertiseTick, { once: true });
 }
 
 /**

@@ -1,8 +1,8 @@
-/* ==========================================================================
+﻿/* ==========================================================================
    DESIGN TOKENS & VARIABLES
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600&display=swap');
+
 
 :root {
   --color-primary-orange: #f94706;
@@ -16,7 +16,6 @@
   --h2-size: 38px;
   --h2-line-height: 46px;
   --h2-weight: 500;
-.flip-card-profile-img
   --h3-size: 28px;
   --h3-line-height: 34px;
   --h3-weight: 500;
